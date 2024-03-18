@@ -1,0 +1,23 @@
+
+body{
+    background: linear-gradient(to left,white,black);
+}
+
+
+img{
+     height:300px;
+     width:250px;
+     margin-top: 100px; 
+}
+
+input[type="submit"]{
+    height:50px;
+    width:100px;
+    background: black;
+    color:white
+
+}
+div{
+    margin-left: 630px;
+    margin-top: 10px;
+}
